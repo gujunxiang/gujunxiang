@@ -57,4 +57,11 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=gujunxiang&label=Profile%20Views&color=6366F1&style=flat-square" />
 </p>
 
+### 🔗 我的其他账号 · Also on
+
+<p align="center">
+  <a href="https://github.com/xiangagou"><img alt="xiangagou" src="https://img.shields.io/badge/xiangagou-141A2E?style=flat-square&logo=github&logoColor=A5B4FC" /></a>
+  <a href="https://github.com/xiangagou163"><img alt="xiangagou163" src="https://img.shields.io/badge/xiangagou163-141A2E?style=flat-square&logo=github&logoColor=A5B4FC" /></a>
+</p>
+
 <p align="center"><sub>感谢访问 · Thanks for stopping by ✦</sub></p>
